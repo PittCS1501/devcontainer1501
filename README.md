@@ -14,11 +14,11 @@ Your `.devcontainer` folder should contain 2 files:
 * `devcontainer.json`
 * `Dockerfile`
 
-Both of these can be found in the .devcontainer folder in this repo. They serve
-to set up the Codespaces development environment to match the environment used
-by the GradeScope autograder, ensuring that your code runs the same in the
-Codespace and on GradeScope. The simplest approach to setting this up would
-be to do the following:
+Both of these can be found in the `.devcontainer` folder in this repo. They
+serve to set up the Codespaces development environment to match the environment
+used by the GradeScope autograder, ensuring that your code runs the same in the
+Codespace and on GradeScope. The simplest approach to setting this up would be
+to do the following:
 
 1. Start your current codespace.
 1. Commit any changes to your repo you want to keep and push them (e.g., any changes to `BST.java`).
