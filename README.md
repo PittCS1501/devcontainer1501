@@ -24,7 +24,7 @@ be to do the following:
 1. Commit any changes to your repo you want to keep and push them.
 1. Run the following command in your Codespace terminal:
 	```bash
-	curl --proto '=https' --tlsv1.2 -sSf 
+	curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/PittCS1501/devcontainer1501/main/make_devcontainer.sh | sh
 	```
 1. Exit the Codespace.
 1. Create a *new* Codespace:
